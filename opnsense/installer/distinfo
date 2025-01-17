@@ -1,3 +1,5 @@
-TIMESTAMP = 1721644115
-SHA256 (opnsense-installer-24.7_GH0.tar.gz) = a2e4e870f2f8a5743d456f0e3a9669327399b48e96cd08b022f56e1ab0c92644
-SIZE (opnsense-installer-24.7_GH0.tar.gz) = 24347
+TIMESTAMP = 1737105349
+SHA256 (opnsense/opnsense-installer-24.7_GH0.tar.gz) = a2e4e870f2f8a5743d456f0e3a9669327399b48e96cd08b022f56e1ab0c92644
+SIZE (opnsense/opnsense-installer-24.7_GH0.tar.gz) = 24347
+SHA256 (opnsense/opnsense-installer-24.7_GH0.tar.gz) = a2e4e870f2f8a5743d456f0e3a9669327399b48e96cd08b022f56e1ab0c92644
+SIZE (opnsense/opnsense-installer-24.7_GH0.tar.gz) = 24347
